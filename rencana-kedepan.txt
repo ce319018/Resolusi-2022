@@ -1,0 +1,3 @@
+Rencana kedepan 
+- Belajar javacsript
+- Belajar node js
