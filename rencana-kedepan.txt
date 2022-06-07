@@ -3,4 +3,5 @@ Rencana kedepan
   * apa itu javascript
 - Belajar node js
  * apa itu node js
- * sebelum belajar node js harus memiliki basic javascript
+ * Mengapa harus mempelajari ini
+
