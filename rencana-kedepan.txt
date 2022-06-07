@@ -3,3 +3,4 @@ Rencana kedepan
   * apa itu javascript
 - Belajar node js
  * apa itu node js
+ * Mengapa harus mempelajari ini
